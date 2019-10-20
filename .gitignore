@@ -1,2 +1,3 @@
 CalculateDynamiceVsPRoj.code-workspace
 .vscode
+*.pyc
